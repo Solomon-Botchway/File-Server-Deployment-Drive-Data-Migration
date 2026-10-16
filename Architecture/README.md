@@ -5,9 +5,7 @@
           DNS
           Group Policy
           Event Collection
-
                     │
-
                     ▼
 
                  FS01
@@ -19,18 +17,11 @@
           Software Repository
           Wallpapers
           Screensavers
-
                     │
-
       ┌─────────────┴─────────────┐
-
       ▼                           ▼
-
-   PC01                        PC02
- Windows 11                    Linux
-
+     PC01                        PC02
+   Windows 11                    Linux
                     │
-
                     ▼
-
             HP DJ2700 Printer
