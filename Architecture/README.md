@@ -20,8 +20,8 @@
                     │
       ┌─────────────┴─────────────┐
       ▼                           ▼
-     PC01                        PC02
-   Windows 11                    Linux
+     PC01                      PC02 
+     Windows 11               Linux                                      
                     │
                     ▼
             HP DJ2700 Printer
