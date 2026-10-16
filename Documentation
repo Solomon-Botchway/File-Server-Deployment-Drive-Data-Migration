@@ -1,1 +1,13 @@
+# Share Permissions vs NTFS Permissions
+
+## Key Lesson
+
+Windows evaluates permissions differently depending on how a resource is accessed.
+
+### Local Access
+
+Example:
+
+```text
+D:\Shares\Departments\Finance_Data
 
