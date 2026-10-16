@@ -7,6 +7,7 @@
           Event Collection
 
                     │
+
                     ▼
 
                  FS01
@@ -20,11 +21,16 @@
           Screensavers
 
                     │
+
       ┌─────────────┴─────────────┐
+
       ▼                           ▼
+
    PC01                        PC02
  Windows 11                    Linux
 
                     │
+
                     ▼
+
             HP DJ2700 Printer
