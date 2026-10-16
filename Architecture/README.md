@@ -21,7 +21,6 @@
           Screensavers
 
                     │
-
       ┌─────────────┴─────────────┐
 
       ▼                           ▼
@@ -30,7 +29,6 @@
  Windows 11                    Linux
 
                     │
-
                     ▼
 
             HP DJ2700 Printer
