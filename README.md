@@ -348,3 +348,19 @@ Successfully verified:
 - Share Permission Conflicts
 - Access Denied Investigations
 - GPO Path Validation
+
+--- 
+
+## Discovery
+
+ ```markdown
+## Migration Issue Encountered
+
+During migration from DC01 to FS01, Domain Administrators could access the folders locally but were denied access over the network.
+
+### Root Cause
+Domain Administrators were present in NTFS permissions but missing from Share Permissions.
+
+## Resolution Implemented:
+### Share Permissions Authenticated Users Read Change Domain Admins Full Control
+### NTFS Permissions Finance-Team Modify Domain Admins Full Control SYSTEM Full Control
